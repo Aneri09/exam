@@ -1,0 +1,63 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+form
+{
+    width: 500px;
+    background-color:rgb(209, 165, 207);
+    padding: 30px;
+    /* color: white; */
+    margin: auto;
+}
+input
+{
+    margin-bottom: 20px;
+}
+h1
+{
+    text-align: center;
+    color: white;
+}
+.one
+{
+    margin-top: 20px;
+    width: 250px;
+    padding: 12px;
+    font-size: 15px;
+}
+select
+{
+    margin: 10px;
+    width: 100px;
+    padding: 5px;
+}
+.check
+{
+    margin-bottom: 30px;
+    /* margin: 20px; */
+    margin-left: 20px;
+    margin-right: 5px;
+    margin-top: 0;
+}
+button
+{
+    padding: 10px;
+    width: 100px;
+    font-size: 15px;
+    background-color: rgb(252, 252, 252);
+    color: black;
+    border: 3px solid #a1789f;
+}
+button:hover{
+    background-color: #a1789f;
+    color: white;
+    border-color: white;
+}
+h1
+{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}

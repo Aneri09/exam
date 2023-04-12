@@ -10,7 +10,7 @@ function Form() {
         e.preventDefault()
         let name = data.current.name.value
         setForm(name)
-        // e.target.reset()
+        e.target.reset()
     }
     console.log(form)
 
